@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Hendel Maforte</h1>
+<h1 align="center"> Hendel Maforte</h1>
 
 <h3 align="center">
 💻  Tecnico de Desenvolvimento de Sistemas e Estudante de Ciência da Computação 
