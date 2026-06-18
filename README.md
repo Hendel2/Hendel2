@@ -8,13 +8,13 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação
-- 📚 Técnico em Informática
-- 📍 Jundiaí - SP
-- 💼 Interesse em desenvolvimento Back-end e Desenvolvimento Web
+Sou estudante de Ciência da Computação, com formação técnica em Informática, atualmente atuando como auxiliar técnico de desenvolvimento de sistemas. Tenho conhecimentos em PHP, Python e MySQL, além de experiência no desenvolvimento de aplicações web, integração com bancos de dados, consumo de APIs e lógica de programação.
+
+No ambiente profissional, participo da manutenção e evolução de sistemas, realização de testes, análise e correção de problemas, suporte aos usuários e implementação de novas funcionalidades. Busco aprimorar continuamente meus conhecimentos e desenvolver soluções organizadas, eficientes e alinhadas às boas práticas de desenvolvimento de software.
 
 
----
+
+
 
 ## 🛠️ Tecnologias
 
@@ -40,6 +40,7 @@
 
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/GeneXus-0096D6?style=for-the-badge&logo=genexus&logoColor=white"/>
 </p>
 
 
