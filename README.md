@@ -8,11 +8,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação, com formação técnica em Informática, atualmente atuando como auxiliar técnico de desenvolvimento de sistemas. Tenho conhecimentos em PHP, Python e MySQL, além de experiência no desenvolvimento de aplicações web, integração com bancos de dados, consumo de APIs e lógica de programação.
+🎓 Cursando Ciência da Computação e formado como Técnico em Informática.
 
-No ambiente profissional, participo da manutenção e evolução de sistemas, realização de testes, análise e correção de problemas, suporte aos usuários e implementação de novas funcionalidades. Busco aprimorar continuamente meus conhecimentos e desenvolver soluções organizadas, eficientes e alinhadas às boas práticas de desenvolvimento de software.
+💼 Atualmente atuo como Auxiliar Técnico de Desenvolvimento de Sistemas, prestando suporte à manutenção, evolução e implementação de novas funcionalidades em sistemas.
 
+🧑‍💻 Possuo experiência com PHP, Python, GeneXus, MySQL e desenvolvimento de aplicações web, além de integração com bancos de dados e consumo de APIs.
 
+📚 Atualmente estou aprimorando meus conhecimentos em desenvolvimento Back-end, Engenharia de Software, APIs, banco de dados e boas práticas de desenvolvimento.
 
 
 
